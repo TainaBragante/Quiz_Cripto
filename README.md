@@ -33,5 +33,4 @@ A aplicação simula um **quiz passo a passo**, que ao final entrega:
 
 ## 📦 Como executar o projeto
 
-1. Clone este repositório:
-   abra o index.html no localhost
+1. Clone este repositório e abra o index.html no localhost
