@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-O **Diagnóstico Fiscal – Tributação de Criptomoedas** é um questionário interativo desenvolvido em **HTML, CSS e JavaScript puro**, com foco em **educar e orientar investidores em criptoativos** sobre suas obrigações fiscais no Brasil.  
+O **Diagnóstico Fiscal de Tributação de Criptomoedas** é um questionário interativo desenvolvido em **HTML, CSS e JavaScript nativo**, com foco em **orientar investidores de criptoativos** sobre suas obrigações fiscais no Brasil.  
 
 
 A aplicação simula um **quiz passo a passo**, que ao final entrega:  
